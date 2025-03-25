@@ -6,10 +6,7 @@ Chon In Leong, I-Ling Chung, Kin-Fong Chao, Jun-You Wang, Yi-Hsuan Yang, and Jyh
 You can find any information about the paper here.
 
 ## Demo Page
-Our demo page is available at [here]().
+Our demo page is available at [here](https://navi0105.github.io/demo/music2fail/).
 
 ## Download dataset
-The FR109 dataset we proposed in this paper is available on [Zenodo]().
-
-## Checkpoints
-TBD.
+The FR109 dataset we proposed in this paper is available on [Zenodo](https://zenodo.org/records/14250703).
